@@ -1,3 +1,7 @@
+
+'Helllo World'                   #String shows with by either single quotation marks, or double quotation marks.
+"Hello world"
+
 a = "Hello World"
 print("Hello World")            #Strings can be assign to a variable and print variable (a) or string.
 print(a)
